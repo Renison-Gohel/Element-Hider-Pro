@@ -31,7 +31,7 @@
 ### Method 1: Load Unpacked Extension  
 1. **Clone the repo**:  
    ```bash  
-   git clone https://github.com/your-username/element-hider-pro.git  
+   git clone https://github.com/Renison-Gohel/Element-Hider-Pro.git  
    ```  
 2. **Open Chrome**:  
    - Go to `chrome://extensions`  
