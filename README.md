@@ -1,4 +1,3 @@
-```
 ---
 
 ## 🚀 Element Hider Pro - Chrome Extension 🪄  
@@ -94,4 +93,3 @@
 - Built with Chrome Extension’s powerful `MutationObserver` API 🧪  
 
 ---
-```
