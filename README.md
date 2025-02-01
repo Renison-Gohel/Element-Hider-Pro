@@ -1,5 +1,3 @@
----
-
 ## 🚀 Element Hider Pro - Chrome Extension 🪄  
 **Hide any webpage element with XPath magic!**  
 
