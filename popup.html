@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h2>Element Manager</h2>
+      <button class="btn raised" id="addXpath">
+        <i class="material-icons">add</i>
+        Add XPath
+      </button>
+    </header>
+
+    <div id="xpathList" class="xpath-list"></div>
+    
+    <dialog id="dialog">
+  <div class="dialog-content">
+    <h3>Add New XPath Rule</h3>
+    <div class="input-field">
+      <input type="text" id="ruleName" placeholder="Rule Name">
+    </div>
+    <div class="input-field">
+      <input type="text" id="xpathInput" placeholder="XPath Expression">
+    </div>
+    <div class="dialog-actions">
+      <button class="btn text" id="cancelBtn">Cancel</button>
+      <button class="btn raised" id="saveBtn">Save</button>
+    </div>
+  </div>
+</dialog>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
