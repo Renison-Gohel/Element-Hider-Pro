@@ -1,4 +1,4 @@
-## 🚀 Element Hider Pro - Chrome Extension 🪄  
+## 🚀 Element Hider Pro - Chrome Extension
 **Hide any webpage element with XPath magic!**  
 
 ![Demo](https://img.shields.io/badge/Demo-YouTube-red) ![License](https://img.shields.io/badge/License-MIT-blue)  
