@@ -81,8 +81,8 @@
 ---
 
 ## 📜 License  
-**MIT License** © 2023 [Your Name]  
-> "Permission is hereby granted, free of charge..."  
+**MIT License** © 2025  
+> "Permission is hereby granted, free of charge."  
 
 ---
 
