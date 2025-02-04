@@ -41,7 +41,7 @@
    - Click **Load unpacked** ➕  
    - Select the `element-hider-pro` folder  
 
-### Method 2: Install from Chrome Web Store *(Coming Soon!)*  
+### Method 2: Install from Chrome Web Store or Firefox Addons *(Coming Soon!)*  
 
 ---
 
